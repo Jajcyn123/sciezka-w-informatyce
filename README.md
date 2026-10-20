@@ -1,1 +1,1 @@
-test
+repo jest do zadania na studiach
