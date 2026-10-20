@@ -8,7 +8,9 @@ i live at 33 negra arroyo lane, albaquerque new mexico. <p>
 i will do anything to provide for my family
 
 # My experience
+extensive experience in piracy
+thanks to my studies i have finally started interacting more with coding, github as well as learning about linux <p>
 
 
 # My goals
-
+i hope to succeed in life. 
